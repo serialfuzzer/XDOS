@@ -1,5 +1,5 @@
 # XDOS
-Test for Cross Site Denial of Service Vulnerabilities
+Test for Cross Site Denial of Service vulnerability
 
 # How to use?
 
